@@ -4,10 +4,10 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQwc2RnMnN3ZjhrNDB3MG9heHVidmh2bDV0M2xzOW01ZXN2MzNyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WoWm8YzFQJg5i/giphy.gif" width="100" height="80"/>
   </a>
 
-  <h3 align="center">On-Screen PIN Input</h3>
+  <h3 align="center">On-Screen Keyboard PIN Input</h3>
 
   <p align="center">
-    Introducing the On-Screen PIN Input component – your solution to enhanced security and convenience in React Native applications. Say goodbye to traditional keyboard inputs for PIN and welcome a safer alternative.
+    Introducing the On-Screen Keyboard PIN Input component – your solution to enhanced security and convenience in React Native applications. Say goodbye to traditional keyboard inputs for PIN and welcome a safer alternative.
     <br/>
     <br/>
     <a href="https://github.com/Judefabi/pin_input_login"><strong>View Demo »</strong></a>
